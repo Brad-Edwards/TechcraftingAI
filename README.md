@@ -1,2 +1,2 @@
-# atomiklabs
-Platform code for open science projects like TechcraftingAI newsletters and podcasts
+# TechcraftingAI
+Frontend code for TechcraftingAI newsletters and podcasts.
